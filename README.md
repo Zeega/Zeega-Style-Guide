@@ -148,7 +148,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
     E. Quotes
 	
 	```
-   		Single quotes
+   		Always use single quotes
 	```	
     F. End of Lines and Empty Lines
 
@@ -209,7 +209,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
    
 4. <a name="cond">Conditional Evaluation</a>
 
-    ```
+    ```javascript
 
     // 4.1.1
     // When only evaluating that an array has length,
@@ -365,7 +365,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 6. <a name="naming">Naming</a>
 
 
-    ```
+    ```javascript
 
     // 6.A.3.1
     // Naming strings
