@@ -2,6 +2,8 @@
 
 Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 
+Examples in JavaScript, but should be applied in other languages where applicable.
+
 ## Table of Contents
 
  * [Whitespace](#whitespace)
