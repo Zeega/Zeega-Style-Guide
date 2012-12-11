@@ -29,7 +29,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 
     A. Parens, Braces, Linebreaks
   
-	```
+	```javascript
     // 2.A.1.1
     // Use whitespace to promote readability
 
@@ -54,7 +54,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 
     B. Assignments, Declarations, Functions ( Named, Expression, Constructor )
 
-    ```
+    ```javascript
 
     // 2.B.1.1
     // Variables
@@ -87,7 +87,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
     }
     ```
 
-    ```
+    ```javascript
 
     // 2.B.2.1
     // Named Function Declaration
@@ -118,7 +118,7 @@ Based on [idiomatic.js](https://github.com/rwldrn/idiomatic.js)
 
     C. Exceptions, Slight Deviations
 
-    ```
+    ```javascript
 
     // 2.C.1.1
     // Functions with callbacks
